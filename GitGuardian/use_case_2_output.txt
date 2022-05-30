@@ -1,0 +1,55 @@
+Client initialyzed and healthy : 
+detail:Valid API key., status_code:200, app version:2ec17e93, secrets engine version:2.67.0
+
+10 incident(s) reported
+
+Invalid assign post request 400
+Invalid assign post request 400
+Invalid assign post request 400
+Invalid assign post request 400
+Invalid assign post request 400
+Invalid assign post request 400
+Invalid assign post request 400
+Invalid assign post request 400
+Invalid assign post request 400
+Invalid assign post request 400
+Invalid unassign post request 409
+Invalid unassign post request 409
+Invalid unassign post request 409
+Invalid unassign post request 409
+Invalid unassign post request 409
+Invalid unassign post request 409
+Invalid unassign post request 409
+Invalid unassign post request 409
+Invalid unassign post request 409
+Invalid unassign post request 409
+Incidents 3587195 resolved
+Incidents 3587196 resolved
+Incidents 3587197 resolved
+Incidents 3587198 resolved
+Incidents 3587199 resolved
+Incidents 3587200 resolved
+Incidents 3587201 resolved
+Incidents 3587202 resolved
+Incidents 3587203 resolved
+Incidents 3587204 resolved
+Incidents 3587195 commented : BK test for QA
+Incidents 3587196 commented : BK test for QA
+Incidents 3587197 commented : BK test for QA
+Incidents 3587198 commented : BK test for QA
+Incidents 3587199 commented : BK test for QA
+Incidents 3587200 commented : BK test for QA
+Incidents 3587201 commented : BK test for QA
+Incidents 3587202 commented : BK test for QA
+Incidents 3587203 commented : BK test for QA
+Incidents 3587204 commented : BK test for QA
+Incidents 3587195 reopened
+Incidents 3587196 reopened
+Incidents 3587197 reopened
+Incidents 3587198 reopened
+Incidents 3587199 reopened
+Incidents 3587200 reopened
+Incidents 3587201 reopened
+Incidents 3587202 reopened
+Incidents 3587203 reopened
+Incidents 3587204 reopened

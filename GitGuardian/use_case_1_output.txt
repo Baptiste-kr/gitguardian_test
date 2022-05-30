@@ -1,0 +1,94 @@
+Client not initialyzed : 
+detail:Invalid API key., status_code:401, app version:2ec17e93, secrets engine version:2.67.0
+
+Client initialyzed and healthy : 
+detail:Valid API key., status_code:200, app version:2ec17e93, secrets engine version:2.67.0
+
+Starting reading repository ...
+Repository processed
+
+Starting scan 1/73
+Starting scan 11/73
+Starting scan 21/73
+Starting scan 31/73
+Starting scan 41/73
+Starting scan 51/73
+Starting scan 61/73
+Starting scan 71/73
+All scans end
+
+cakey.pem: 2 break/s found
+	Generic Private Key:
+		apikey
+	cakey.pem:
+		extension
+boxkey.pem: 2 break/s found
+	Generic Private Key:
+		apikey
+	boxkey.pem:
+		extension
+clientkey.pem: 2 break/s found
+	Generic Private Key:
+		apikey
+	clientkey.pem:
+		extension
+encryptkey.pem: 2 break/s found
+	Generic Private Key:
+		apikey
+	encryptkey.pem:
+		extension
+revokedkey.pem: 2 break/s found
+	Generic Private Key:
+		apikey
+	revokedkey.pem:
+		extension
+boxkey.pem: 2 break/s found
+	Generic Private Key:
+		apikey
+	boxkey.pem:
+		extension
+cakey.pem: 2 break/s found
+	Generic Private Key:
+		apikey
+	cakey.pem:
+		extension
+clientkey.pem: 2 break/s found
+	Generic Private Key:
+		apikey
+	clientkey.pem:
+		extension
+encryptkey.pem: 2 break/s found
+	Generic Private Key:
+		apikey
+	encryptkey.pem:
+		extension
+revokedkey.pem: 2 break/s found
+	Generic Private Key:
+		apikey
+	revokedkey.pem:
+		extension
+boxkey.pem: 2 break/s found
+	Generic Private Key:
+		apikey
+	boxkey.pem:
+		extension
+cakey.pem: 2 break/s found
+	Generic Private Key:
+		apikey
+	cakey.pem:
+		extension
+clientkey.pem: 2 break/s found
+	Generic Private Key:
+		apikey
+	clientkey.pem:
+		extension
+encryptkey.pem: 2 break/s found
+	Generic Private Key:
+		apikey
+	encryptkey.pem:
+		extension
+revokedkey.pem: 2 break/s found
+	Generic Private Key:
+		apikey
+	revokedkey.pem:
+		extension
